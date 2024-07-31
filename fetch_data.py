@@ -2,7 +2,7 @@ import json
 import requests
 import os
 
-json_file_path = "data.json"
+json_file_path = "Ophiuroidea.json"
 images_directory = "images/"
 
 os.makedirs(images_directory, exist_ok=True)
