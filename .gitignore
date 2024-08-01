@@ -1,4 +1,5 @@
 
 *.DS_Store
 /images
-*.json
+large_data.json
+large_data2.json
