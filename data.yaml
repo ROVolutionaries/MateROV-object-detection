@@ -1,0 +1,446 @@
+train: images/train
+val: images/test
+nc: 442
+names:
+- Actiniaria
+- Sebastolobus
+- Ophiuroidea
+- Psolus squamatus
+- Chionoecetes tanneri
+- Strongylocentrotus fragilis
+- Serpulidae
+- Gastropoda
+- Asteroidea
+- Zoantharia
+- Paulasterias mcclaini
+- Careproctus ovigerus
+- Cirripedia
+- Octocorallia
+- plastic bag
+- Solasteridae
+- Pannychia moseleyi
+- Hyalonema (Corynonema) populiferum
+- Holothuroidea
+- Peniagone gracilis
+- Distichoptilum gracile
+- Hormathiidae
+- Liponema brevicorne
+- Peniagone
+- Elpidia
+- Peniagone sp. A
+- Lycenchelys
+- Pteraster
+- Cerianthidae
+- Bathyraja abyssicola
+- Neptunea-Buccinum Complex
+- Paelopatides confundens
+- Suction Sampler
+- Plexauridae
+- Anthozoa
+- Umbellapathes
+- Calyptogena extenta
+- Pennatula phosphorea
+- LRJ complex
+- narella sp.
+- Isosicyonis
+- Peniagone papillata
+- Bathyraja microtrachys
+- Synallactidae gen. et sp. indet.
+- Psamminidae sp. 1
+- Zoroasteridae
+- manipulator
+- Chrysogorgia monticola
+- Calyptrophora
+- Umbellula sp. 2
+- Hormathiidae sp. 1
+- Antimora microlepis
+- Pennatula
+- Caridea
+- Crinoidea
+- Cystechinus loveni
+- Scotoplanes globosa
+- Polychaeta tube
+- Echinoidea
+- Pennatulacea
+- Porifera
+- Echinocrepis rostrata
+- Tergivelum baldwinae
+- Hippasteria
+- Liponema
+- Lycodes diapterus
+- Microstomus pacificus
+- Bathyraja
+- Victorgorgia alba
+- Holothuroidea sp. 3
+- Lophaster
+- Pleuronectiformes
+- Embassichthys bathybius
+- Enteroctopus dofleini
+- Bathyraja spinosissima
+- Munidopsis
+- Lamellibrachia
+- Sicyonis
+- Goniasteridae
+- Bathyphellia australis
+- Bathydorus laevis pseudospinosus
+- Parazoanthidae
+- Opiuroidea
+- Bathyraja kincaidii
+- Galatheoidea
+- Liparidae
+- Kophobelemnon sp. 1
+- Corallimorphidae
+- Actiniidae sp. 1
+- Psathyrometra fragilis
+- Corallimorphus
+- Macrouridae
+- Tromikosoma
+- Polynoidae
+- Graneledone boreopacifica
+- Chrysogorgia sp.
+- Funiculina
+- Benthocodon
+- Push Corer
+- Zoarcidae
+- Farrea
+- Heteropolypus ritteri
+- Bathysiphon
+- Thermopalia
+- Sladenia zhui
+- Dendrophyllia
+- Arthropoda
+- Rathbunaster californicus
+- Uroptychus sp.
+- Actinernus
+- Pagurus tanneri
+- Coryphaenoides
+- Bathyraja trachura
+- Eptatretus
+- Walteria
+- Antedonoidea
+- Crossaster borealis
+- Bathyraja cf. microtrachys
+- Amblyraja hyperborea
+- Swiftia kofoidi
+- Chrysogorgia geniculata
+- fecal material
+- Myxoderma
+- Coryphaenoides armatus-yaquinae complex
+- Psamminidae
+- Pennatula phosphorea californica
+- Sebastolobus altivelis
+- Acesta
+- Benthothuria
+- Farrea occa
+- Glyptocephalus zachirus
+- Anthoptilum grandiflorum
+- Galatheidae
+- Coryphaenoides filifer
+- Brachiopoda
+- Peniagone sp. 2
+- Culeolus barryi
+- Hexactinellida
+- Hymenaster
+- Synallactidae
+- Victorgorgia
+- plastic
+- Scotoplanes sp. A
+- Euchone
+- Florometra serratissima
+- Leptogorgia
+- Scotoplanes
+- Swiftia
+- Epialtidae
+- Cidaris cidaris
+- Solaster
+- fabric
+- Heteroscleromorpha
+- Cidaridae
+- Asbestopluma
+- Asteronyx longifissus
+- Poralia rufescens
+- Walteria cf. leuckarti
+- Decapoda
+- Euryalidae
+- Scleractinia
+- Alcyoniidae
+- Bivalvia
+- Gersemia juliepackardae
+- Chrysogorgia
+- Munnopsidae
+- Benthic Rover
+- Protoptilum
+- Kophobelemnon
+- Calliostoma
+- Delectopecten
+- Benthocodon pedunculata
+- Docosaccus maculatus
+- Bathyalcyon
+- Cystocrepis setigera
+- Paragorgia
+- Benthopecten
+- Narella macrocalyx
+- Munidopsis depressa
+- Anthomastus sp.
+- Plumarella circumoperculum
+- Mysida
+- Brisingida
+- Funiculina-Halipteris complex
+- Ophiodon elongatus
+- Lamoha
+- Actinopterygii
+- Hemicorallium laauense
+- Luidia foliolata
+- Pannychia
+- Isopoda
+- Pycnogonida
+- Hertwigia
+- Metallogorgia melanotrichos
+- Kophobelemnidae
+- Comatulida
+- Halipteris californica
+- Aeolidia
+- Enteropneusta
+- Tergivelum sp. A
+- Elpidia sp. A
+- Coryphaenoides acrolepis
+- Bothrocara brunneum
+- Pandalus amplus
+- Tunicata
+- Peniagone sp. 1
+- Anoplopoma fimbria
+- Ceriantharia
+- Acanthascinae
+- Cnemidocarpa
+- Culeolus
+- Myxoderma platyacanthum
+- Lillipathes
+- Neolithodes diomedeae
+- Lithodidae
+- Ophiacanthidae
+- Octopodidae
+- Pandalus platyceros
+- Apostichopus leukothele
+- Octopus rubescens
+- Sebastes chlorostictus
+- Asbestopluma monticola
+- Corallimorphus pilatus
+- Paralomis
+- Cystechinus giganteus
+- Abyssocucumis abyssorum
+- Primnoidae
+- Asteronyx
+- Pannychia sp. 1
+- Careproctus
+- Paralomis verrilli
+- Benthodytes sp. 1
+- Terebellidae
+- Neoloricata
+- Acanthogorgia
+- Paralomis multispina
+- Munidopsis kensmithi
+- Smithsonius dorothea
+- Heterochone calyx
+- Sibogagorgia cauliflora
+- Isidella tentaculum
+- Coryphaenoides acrolepis-filifer complex
+- Keratoisis
+- Graneledone
+- Crossaster
+- Iosactis vagabunda
+- Hexactinellida sp. 3
+- Amphipoda
+- Funiculina-Balticina complex
+- Lycodes cortezianus
+- Dipsacaster eximius
+- Paelopatides
+- Polychaeta
+- Ascidiacea
+- Isididae
+- Paragorgia arborea
+- Latrunculia (Latrunculia) austini
+- Glyphocrangon vicaria
+- Peniagone vitrea
+- Paragorgiidae
+- Parastenella
+- Sebastidae
+- Branchiocerianthus imperator
+- trash
+- Harriotta raleighana
+- Eretmichthys pinnatus
+- Ophidiidae
+- Saxipendium implicatum
+- Sabellidae
+- Pachycara bulbiceps
+- Neptunea
+- Fariometra parvula
+- shell fragment
+- Camptoplites sp. A
+- Asbestopluma rickettsi
+- Pandalopsis ampla
+- Umbellula sp. 1
+- Acesta mori
+- Gonatopsis octopedatus
+- Xeneretmus latifrons
+- Pleurobranchaea californica
+- Oneirophanta mutabilis complex
+- Hexacorallia
+- shell
+- Akoya platinum
+- Sebastes
+- Asthenactis fisheri
+- Hydractiniidae
+- Medusae
+- Bathybembix
+- Cataetyx
+- Scaphopoda
+- Antedonoidea sp. 1
+- Albatrossia pectoralis
+- Sibogagorgia
+- Sebastolobus alascanus
+- Thenea muricata
+- Lepidisis
+- Peniagone vitrea- sp. 1 complex
+- bottle
+- rock
+- Bathypterois
+- Munidopsis sp. 1
+- Antedonidae
+- Actinostoloidea
+- Alcyonacea
+- Isidella
+- Staurocalyptus
+- Cerataspis monstrosus
+- Styelidae
+- Malacostraca
+- Liparidae sp. 1
+- military apparatus
+- Pectinidae
+- Paguroidea
+- Tritonia
+- Plesionika
+- Siphonophorae
+- Munida
+- Umbellula
+- Lycenchelys crotalinus
+- Sternostylus perarmatus
+- Protoptilum sp. 1
+- Psychrolutes phrictus
+- Moloha faxoni
+- pillow lava
+- Cydippida
+- Chorilia longipes
+- Eknomoliparis chirichignoae
+- Apristurus kampae
+- Iosactis
+- eggcase
+- Thenea
+- Dofleinia
+- Brachyura
+- Cladorhizidae
+- Staurocalyptus solidus
+- Annelida
+- Cherublemma emmelas
+- Parmaturus xaniurus
+- Bathypterois pectinatus
+- Octopus californicus
+- Heteropolypus
+- Sclerothamnopsis
+- Ceriantharia sp. 1
+- Physiculus rastrelliger
+- Dipsacaster
+- Asteroidea sp. 7
+- Psolidae
+- Heterocarpus sp. 1
+- Cancridae sp. 1
+- equipment
+- Hydrozoa
+- Lestidiops
+- can
+- Chilara taylori
+- metal
+- Swiftia simplex
+- Munida bapensis
+- Chorilia
+- Beringraja rhina
+- Sebastes melanostomus
+- Cnemidocarpa finmarkiensis
+- Megalodicopia hians
+- Perciformes
+- Plesionika sp. A
+- Caulophacus
+- Pedicellasteridae sp. 2
+- Careproctus melanurus
+- Sabellariidae
+- Distichoptilum
+- Lipariscus sp. 1
+- Asteroidea sp. 9
+- Aegidae
+- Fissurellidae
+- Physiculus nematopus-rastrelliger complex
+- Nephropidae
+- Acesta sphoni
+- Mycale
+- Echiura
+- Narella
+- Antipatharia
+- Terebellida
+- Pandalidae
+- Corallium
+- Laetmogone
+- Cephalurus cephalus
+- Desmophyllum
+- Cataetyx rubrirostris
+- Alternatipathes
+- Demospongiae sp. 1
+- Munida quadrispina
+- Brisaster
+- Biremis
+- Pontinus furcirhinus
+- Hirudinea
+- Desmophyllum dianthus
+- Dibranchus
+- Asteroidea sp. 6
+- Asteroidea sp. 3
+- Swiftia sim
+- Poraniopsis inflata
+- Terebratulina complex
+- Tromikosoma panamense
+- Pyrosoma detritus
+- Fungiacyathus (Bathyactis) marenzelleri
+- Sebastes aurora
+- Acanthascinae sp. 2
+- Pterasteridae
+- Benthoctopus
+- Merluccius productus
+- Nanomia bijuga
+- Hexactinellida sp. 6
+- Ceramaster
+- Pythonaster pacificus
+- Pteropoda
+- Sebastes phillipsi
+- Sipuncula
+- Liparidae sp. 3
+- Bathyalcyon robustum
+- Pennatuloidea
+- Spectrunculus grandis
+- amphipod tube mat
+- Paralomis cf. papillata
+- Paradiopatra
+- Cladorhiza kensmithi
+- Poraniopsis
+- site marker
+- Propeamussium meridionale
+- Luciobrotula sp. A
+- Calliostomatidae
+- stalk
+- Rathbunaster
+- Vanhoeffenura pulchra
+- Lyssacinosida sp. 1
+- Coryphaenoides leptolepis
+- Lycodes
+- Ptychogastria polaris
+- Nudibranchia
+- wood
+- Bolinopsis
+- Brisingidae
