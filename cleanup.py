@@ -1,8 +1,8 @@
 import json
 import os
 
-json_file_path = "data.json"
-images_directory = "images/"
+json_file_path = "ophiuroidea.json"
+images_directory = "ophiuroidea/"
 
 """
 Deleting entries without width or height
@@ -26,9 +26,10 @@ print(f"Updated JSON file saved to {json_file_path}")
 if deleted_entries:
     print("\nDeleted entries:")
     for entry in deleted_entries:
-        print(entry)
+        print(entry["uuid"])
 else:
     print("No entries were deleted.")
+
 
 """
 Finding and removing any extra images or JSON entries
@@ -57,7 +58,7 @@ for filename in extra_image_files:
 filtered_data = [entry for entry in data if entry["uuid"] + ".png" not in extra_json_entries]
 
 with open(json_file_path, "w") as file:
-    json.dump(filtered_data, file, indent=4)
+    json.dump(filtered_data, file)
 
 print("Filtered data saved to JSON file.")
 print("Cleanup complete.")

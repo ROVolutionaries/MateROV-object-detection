@@ -1,6 +1,6 @@
-train: images/train
-val: images/test
-nc: 442
+train: images/images/train
+val: images/images/test
+nc: 431
 names:
 - Actiniaria
 - Sebastolobus
@@ -52,8 +52,6 @@ names:
 - Chrysogorgia monticola
 - Calyptrophora
 - Umbellula sp. 2
-- Hormathiidae sp. 1
-- Antimora microlepis
 - Pennatula
 - Caridea
 - Crinoidea
@@ -85,7 +83,6 @@ names:
 - Bathydorus laevis pseudospinosus
 - Parazoanthidae
 - Opiuroidea
-- Bathyraja kincaidii
 - Galatheoidea
 - Liparidae
 - Kophobelemnon sp. 1
@@ -104,13 +101,13 @@ names:
 - Zoarcidae
 - Farrea
 - Heteropolypus ritteri
+- Hormathiidae sp. 1
 - Bathysiphon
 - Thermopalia
 - Sladenia zhui
 - Dendrophyllia
 - Arthropoda
 - Rathbunaster californicus
-- Uroptychus sp.
 - Actinernus
 - Pagurus tanneri
 - Coryphaenoides
@@ -123,6 +120,7 @@ names:
 - Amblyraja hyperborea
 - Swiftia kofoidi
 - Chrysogorgia geniculata
+- Bathyraja kincaidii
 - fecal material
 - Myxoderma
 - Coryphaenoides armatus-yaquinae complex
@@ -132,14 +130,13 @@ names:
 - Acesta
 - Benthothuria
 - Farrea occa
-- Glyptocephalus zachirus
-- Anthoptilum grandiflorum
 - Galatheidae
 - Coryphaenoides filifer
 - Brachiopoda
 - Peniagone sp. 2
 - Culeolus barryi
 - Hexactinellida
+- Glyptocephalus zachirus
 - Hymenaster
 - Synallactidae
 - Victorgorgia
@@ -167,6 +164,7 @@ names:
 - Bivalvia
 - Gersemia juliepackardae
 - Chrysogorgia
+- Antimora microlepis
 - Munnopsidae
 - Benthic Rover
 - Protoptilum
@@ -233,7 +231,6 @@ names:
 - Pannychia sp. 1
 - Careproctus
 - Paralomis verrilli
-- Benthodytes sp. 1
 - Terebellidae
 - Neoloricata
 - Acanthogorgia
@@ -276,10 +273,10 @@ names:
 - Fariometra parvula
 - shell fragment
 - Camptoplites sp. A
-- Asbestopluma rickettsi
 - Pandalopsis ampla
 - Umbellula sp. 1
 - Acesta mori
+- Benthodytes sp. 1
 - Gonatopsis octopedatus
 - Xeneretmus latifrons
 - Pleurobranchaea californica
@@ -310,6 +307,7 @@ names:
 - Alcyonacea
 - Isidella
 - Staurocalyptus
+- Asbestopluma rickettsi
 - Cerataspis monstrosus
 - Styelidae
 - Malacostraca
@@ -317,7 +315,6 @@ names:
 - military apparatus
 - Pectinidae
 - Paguroidea
-- Tritonia
 - Plesionika
 - Siphonophorae
 - Munida
@@ -363,9 +360,6 @@ names:
 - Munida bapensis
 - Chorilia
 - Beringraja rhina
-- Sebastes melanostomus
-- Cnemidocarpa finmarkiensis
-- Megalodicopia hians
 - Perciformes
 - Plesionika sp. A
 - Caulophacus
@@ -373,7 +367,6 @@ names:
 - Careproctus melanurus
 - Sabellariidae
 - Distichoptilum
-- Lipariscus sp. 1
 - Asteroidea sp. 9
 - Aegidae
 - Fissurellidae
@@ -389,11 +382,8 @@ names:
 - Corallium
 - Laetmogone
 - Cephalurus cephalus
-- Desmophyllum
 - Cataetyx rubrirostris
 - Alternatipathes
-- Demospongiae sp. 1
-- Munida quadrispina
 - Brisaster
 - Biremis
 - Pontinus furcirhinus
@@ -406,9 +396,11 @@ names:
 - Poraniopsis inflata
 - Terebratulina complex
 - Tromikosoma panamense
+- Anthoptilum grandiflorum
 - Pyrosoma detritus
 - Fungiacyathus (Bathyactis) marenzelleri
 - Sebastes aurora
+- Demospongiae sp. 1
 - Acanthascinae sp. 2
 - Pterasteridae
 - Benthoctopus
@@ -428,9 +420,7 @@ names:
 - Paralomis cf. papillata
 - Paradiopatra
 - Cladorhiza kensmithi
-- Poraniopsis
-- site marker
-- Propeamussium meridionale
+- Sebastes melanostomus
 - Luciobrotula sp. A
 - Calliostomatidae
 - stalk
@@ -439,7 +429,6 @@ names:
 - Lyssacinosida sp. 1
 - Coryphaenoides leptolepis
 - Lycodes
-- Ptychogastria polaris
 - Nudibranchia
 - wood
 - Bolinopsis
